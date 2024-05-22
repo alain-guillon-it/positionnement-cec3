@@ -69,16 +69,38 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 3 : Audit de la sécurité des systèmes d'information
 
 10. Avez-vous déjà réalisé un audit de sécurité ? (Oui/Non)
+
+    - Non jamais.
+
 11. Connaissez-vous les différentes phases d'un audit de sécurité ? (Oui/Non)
+
+    - Non.
+
 12. Comment évalueriez-vous votre capacité à identifier et analyser les vulnérabilités des systèmes d'information ? (de 1 à 5)
+
+    - N'ayant que très peu de recule sur la cybersécurité, je dirais **2**.
+
 13. Avez-vous déjà rédigé un rapport d'audit de sécurité ? (Oui/Non)
+
+    - Non jamais.
 
 ### Partie 4 : Gestion des incidents de sécurité
 
 14. Avez-vous déjà été impliqué dans la gestion d'un incident de sécurité ? (Oui/Non)
+
+    - Non, pas à ma connaissance.
+
 15. Connaissez-vous les étapes de réponse à un incident de sécurité ? (Oui/Non)
+
+    - Partiellement, nous devons déconnecter le poste du réseau, analyser l'évolution de l'attaque mais aussi inspecter les fichiers de logs afin de déceler les potentiels changements.
+
 16. Comment évalueriez-vous votre capacité à coordonner la réponse à un incident de sécurité ? (de 1 à 5)
+
+    - Très bonne question, je dirais **2** voir **3**. Mais ça reste de la théorie en pratique **1**.
+
 17. Pouvez-vous expliquer ce qu'est une investigation numérique (Forensic) ?
+
+    - Le forensic est une approche simple mais redoutable. En effet, nous disposons tous d'une identitée numérique qu'il faut protéger. En fouinant sur la toile nous pouvons retrouver des informations personnel qui pourrait nous nuir.
 
 ### Partie 5 : Sécurisation après une cyber-attaque
 
