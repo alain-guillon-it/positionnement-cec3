@@ -160,6 +160,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 8 : Connaissances réglementaires et légales
 
 30. Connaissez-vous les obligations légales relatives à la cybersécurité en France ? (Oui/Non)
+
+    - Oui, Le RGPD doit être appliqué pour toute utilisation de données confidentiels.
+
 31. Pouvez-vous expliquer les principales dispositions du RGPD ? (Oui/Non)
 32. Avez-vous déjà participé à des audits de conformité légale en cybersécurité ? (Oui/Non)
 33. Comment évalueriez-vous votre capacité à conseiller sur les aspects légaux de la cybersécurité ? (de 1 à 5)
