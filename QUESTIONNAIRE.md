@@ -175,6 +175,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 33. Comment évalueriez-vous votre capacité à conseiller sur les aspects légaux de la cybersécurité ? (de 1 à 5)
 
+    - Je me sens un peu plus à l'aise après je n'ai pas forcément les termes qui me vienne à l'esprit immédiatement et donc j'envisage un **3** voir **4**.
+
 ### Partie 9 : Gestion de projets et leadership
 
 34. Avez-vous de l'expérience dans la gestion de projets en cybersécurité ? (Oui/Non)
