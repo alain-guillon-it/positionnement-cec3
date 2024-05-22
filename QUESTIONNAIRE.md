@@ -164,6 +164,11 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Oui, Le RGPD doit être appliqué pour toute utilisation de données confidentiels.
 
 31. Pouvez-vous expliquer les principales dispositions du RGPD ? (Oui/Non)
+
+    - Il faut permettre à un utilisateur de consulter ses données confidentiels.
+    - Il faut permettre à un utilisateur de pouvoir supprimer son compte quand il le souhaite.
+    - Demander le consentement à un utilisateur pour pouvoir stocker ses données confidentiels.
+
 32. Avez-vous déjà participé à des audits de conformité légale en cybersécurité ? (Oui/Non)
 33. Comment évalueriez-vous votre capacité à conseiller sur les aspects légaux de la cybersécurité ? (de 1 à 5)
 
