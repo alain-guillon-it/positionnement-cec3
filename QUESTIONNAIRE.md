@@ -170,6 +170,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Demander le consentement à un utilisateur pour pouvoir stocker ses données confidentiels.
 
 32. Avez-vous déjà participé à des audits de conformité légale en cybersécurité ? (Oui/Non)
+
+    - Je n'ai pas participer à d'audit de conformité légale en cybersécurité.
+
 33. Comment évalueriez-vous votre capacité à conseiller sur les aspects légaux de la cybersécurité ? (de 1 à 5)
 
 ### Partie 9 : Gestion de projets et leadership
